@@ -43,3 +43,17 @@
 - First Program in HTML
 - Resources to follow
 - HTML comments
+
+[Lecture: 5](./Lecture_5_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/KdWPGqT5GwE)
+
+- Mastering HTML Tags
+
+[Lecture: 6](./Lecture_6_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/e1X3WPoETsk)
+
+- Emmet
+- Experimentation Using Emmet
+- Elements grouping
+- div tag
+- Block vs Inline Elements
+- List & Complexity
+- Anchor tag Variations
