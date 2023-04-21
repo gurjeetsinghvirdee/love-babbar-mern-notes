@@ -42,3 +42,20 @@ They want to send big file in the form of small packets in their destination.
 <div align="center">
     <img src="./assets/Server%20-%20Client%20Modal.png" width="600" />
 </div>
+
+#
+
+### 5. Protocol Stack and Packets
+
+- Let's take an example if a one machine sending **100MB** File to another machine it will be sended in the form of small packets and re-unite in the destination.
+
+<div align="center">
+    <img src="./assets/Protocol%20STack.png" width="700" />
+</div>
+
+- Protocol is a set of rules to follow
+- TCP defines PORT Number
+- IP will defines it address and added to Hardware.
+
+<h4>⭐ How Packet travels:</h4>
+
