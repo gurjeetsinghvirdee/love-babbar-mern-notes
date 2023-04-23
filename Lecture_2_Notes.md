@@ -84,6 +84,8 @@ Here we see that resources or devices are interconnected in such a large scale a
 
 ### 6. Browser Engine
 
+##
+
 <h4>⭐ What is Browser Engine?</h4>
 
 - Browser Engine is a **brain of Browser** that helps you to execute rendering process. 
@@ -92,11 +94,15 @@ Here we see that resources or devices are interconnected in such a large scale a
 
 ### 7. Client and Server
 
+##
+
 <h4>⭐ What is Client and Server?</h4>
 
 - Over the Internet two machines communicating with each other and they send a request to other machine for giving back a data in response.
 
 ### **Client & Server Modal**
+
+##
 
 <div align="center">
     <img src="./assets/Server%20-%20Client%20Modal.png" width="600" />
@@ -117,6 +123,8 @@ Here we see that resources or devices are interconnected in such a large scale a
 #
 
 ### 8. www.facebook.com/google.com
+
+##
 
 <h4>⭐ How www.facebook.com/google.com works?</h4>
 

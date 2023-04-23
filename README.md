@@ -26,7 +26,7 @@
 
 [Lecture: 3](./Lecture_3_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/ofHYRdWQESo)
 
-- What is Internet
+- What is Internet 
 - Brief History
 - Need of Address
 - Client - Server Modal
