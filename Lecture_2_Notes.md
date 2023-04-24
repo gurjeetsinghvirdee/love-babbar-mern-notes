@@ -96,7 +96,11 @@ Here we see that resources or devices are interconnected in such a large scale a
 
 - Over the Internet two machines communicating with each other and they send a request to other machine for giving back a data in response.
 
-<!-- ### **Client & Server Modal** -->
+### **Client & Server Modal**
+
+<div align="center">
+    <img src="./assets/Server%20-%20Client%20Modal.png" width="600" />
+</div>
 
 ### **Types Of Clients:** 
 - Laptop, PC, Mobile
