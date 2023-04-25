@@ -37,3 +37,9 @@
 - Protocols
 
 [Lecture: 4](./Lecture_4_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/0gU-qrq3gjU)
+
+- What is HTML?
+- Environment Setup
+- First Program in HTML
+- Resources to follow
+- HTML comments
