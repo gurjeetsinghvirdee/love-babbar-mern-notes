@@ -23,3 +23,17 @@
 - Browser Engine
 - Client and Server
 - How www.facebook.com/google.com works? 
+
+[Lecture: 3](./Lecture_3_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/ofHYRdWQESo)
+
+- What is Internet
+- Brief History
+- Need of Address
+- Client - Server Modal
+- Protocol Stacks and Packets
+- How a PAcket travels over Internet
+- Router and Routing Table
+- Understand request for www.google.com
+- Protocols
+
+[Lecture: 4](./Lecture_4_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/0gU-qrq3gjU)
