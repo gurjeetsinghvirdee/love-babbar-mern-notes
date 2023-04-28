@@ -22,5 +22,4 @@
 - Browser
 - Browser Engine
 - Client and Server
-- How Facebook works?
-- How Google Works?
+- How www.facebook.com/google.com works? 

@@ -44,7 +44,7 @@ Here we see that resources or devices are interconnected in such a large scale a
 ### 2. Internet
 ##
 
-<h4>⭐ What is Internet</h4>
+<h4>⭐ What is Internet?</h4>
 
 - Internet is a global system where billions of devices & other resources are interconnected with each other.
 
@@ -93,3 +93,27 @@ Here we see that resources or devices are interconnected in such a large scale a
 ### 7. Client and Server
 
 <h4>⭐ What is Client and Server?</h4>
+
+- Over the Internet two machines communicating with each other and they send a request to other machine for giving back a data in response.
+
+<!-- ### **Client & Server Modal** -->
+
+### **Types Of Clients:** 
+- Laptop, PC, Mobile
+- Browser
+- Application
+- CLI (Terminal)
+
+### **Types of Server:**
+- DB Server
+- File Server
+- Application Server
+- Web Server
+- Email Server
+#
+
+### 8. www.facebook.com/google.com
+
+<h4>⭐ How www.facebook.com/google.com works?</h4>
+
+- Client requesting a ***www.facebook.com/google.com*** it changes to **DNR**(Domain NET Resolution) then it converts to IP Address then you will get a server from the IP Address then it makes a request in the server after processing it gives you a response in your client. 
