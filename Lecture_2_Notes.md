@@ -86,4 +86,10 @@ Here we see that resources or devices are interconnected in such a large scale a
 
 <h4>⭐ What is Browser Engine?</h4>
 
-- 
+- Browser Engine is a **brain of Browser** that helps you to execute rendering process. 
+
+#
+
+### 7. Client and Server
+
+<h4>⭐ What is Client and Server?</h4>
