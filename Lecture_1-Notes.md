@@ -1,4 +1,4 @@
-# Basics 
+# Basics Of Web Development
 
 - ### What is **Web Development**?
 
@@ -31,14 +31,11 @@ Now, we will take a look on<h3>⭐ What is **Development**</h3>
 - **FrontEnd/UI(User Interface**) - Front End portion of the site that users see and interact.
 
 <div align="center">
-    ⬇
+    <img src="./assets/down.png" height="30" />
 </div>
 
 <div align="center">
-    <ul>HTML</ul>
-    <ul>CSS</ul>
-    <ul>JavaScript</ul>
-    <ul>React</ul>
+    <h3>HTML/CSS/JavaScript + React</h3>
 </div>
 
 - **BackEnd** - BackEnd is a brain of your Web-App. <br>
@@ -49,11 +46,9 @@ Now, we will take a look on<h3>⭐ What is **Development**</h3>
 - **DB Layer** - DB layer is Database.
 
 <div align="center">
-    ⬇
+    <img src="./assets/down.png" height="30" />
 </div>
 
 <div align="center">
-    <ul>NO SQL (Mongo DB)</ul>
-    <ul>SQL</ul>
-    <ul>Relational DataBase</ul>
+    <h3>NO SQL(Mongo DB), SQL, Relational Database</h3>
 </div>
