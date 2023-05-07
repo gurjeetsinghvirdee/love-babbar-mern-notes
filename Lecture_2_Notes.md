@@ -1,18 +1,7 @@
 # UnderStanding Internet, Networks, Web & More
 
-## In this lecture we are learning about these topics:
-
-1. Network
-2. Internet
-3. IP Address
-4. Browser
-5. Browser Engine
-6. Client and Server
-7. How Facebook works?
-8. How Google Works?
-
 ### 1. Network
-#
+##
 
 <h4>⭐ What is Network?</h4>
 
@@ -49,3 +38,35 @@ Here we see they are connected in big scale across cities this network is called
 </div>
 
 Here we see that resources or devices are interconnected in such a large scale across countries is called **WAN** (Wide Area Network).
+
+#
+
+### 2. Internet
+##
+
+<h4>⭐ What is Internet</h4>
+
+- Internet is a global system where billions of devices & other resources are interconnected with each other.
+
+- Internet is a **Global System/ Network of Networks**
+
+#
+
+### 3. WWW (World Wide Web)
+##
+
+<h4>⭐ What is WWW?</h4>
+
+- Interconnected documents & other resources you can access via Internet.
+- WWW is a *subset* of Internet.
+  
+#### Internet is a big entity, *WWW takes place inside of this big entity.*
+
+#
+
+### 4. IP Address
+##
+
+<h4>⭐ What is IP Address?</h4>
+
+- If your machines are connected with internet or exist in the internet, then that machine have some address to identify this is known as IP Address.

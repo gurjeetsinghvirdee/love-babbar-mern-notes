@@ -6,6 +6,8 @@ First, we understand<h3>⭐ What is **Web**</h3>
 
 - #### Web is a system in the form of document that are inter-connected with each other.
 
+#
+
 Now, we will take a look on<h3>⭐ What is **Development**</h3>
 
 - #### Development is an entity that you can create Websites or Web Application.
@@ -25,6 +27,7 @@ Now, we will take a look on<h3>⭐ What is **Development**</h3>
 - Static content gives you **same data every time**
 - Dynamic content gives you **different/new data**
 
+#
 
 ### ⭐ Web Application have **3** different layers:
 
