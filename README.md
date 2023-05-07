@@ -2,12 +2,12 @@
 
 ### Topics Cover in each Lecture:
 
-[Lecture: 1](./Lecture_1_Notes.md)
+[Lecture: 1](./Lecture_1_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/Vi9bxu-M-ag)
 
 - Learn Basics of Web Development
 - Layers of Web Development
 
-[Lecture: 2](./Lecture_2_Notes.md)
+[Lecture: 2](./Lecture_2_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/aRUhd1Wd3Sw)
 
 - Network
 - Internet
