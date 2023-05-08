@@ -70,3 +70,20 @@ Here we see that resources or devices are interconnected in such a large scale a
 <h4>⭐ What is IP Address?</h4>
 
 - If your machines are connected with internet or exist in the internet, then that machine have some address to identify this is known as IP Address.
+
+#
+
+### 5. Browser
+##
+
+<h4>⭐ What is Browser?</h4>
+
+- Browser is a tool to access the data & other resources over internet like website, docs & web applications etc.
+
+#
+
+### 6. Browser Engine
+
+<h4>⭐ What is Browser Engine?</h4>
+
+- 
