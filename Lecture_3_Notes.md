@@ -85,5 +85,23 @@ They want to send big file in the form of small packets in their destination.
 
 - Routing Table: A routing table is a data table stored in a network host that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes.
 
+#
+
 ### 8. Understand request for www.google.com
 
+<div>
+    <img src="./assets/understand%20google.png" width="1000" />
+</div>
+
+#
+
+### 9. Protocols
+
+- Three layers of Protocols:
+  - HTTP (Hypertext Transfer Protocol) is an application-layer protocol used for transmitting hypermedia documents such as HTML.
+
+
+  - FTP (File Transfer Protocol) is a standard communication protocol used to transfer computer files from a server to a client on a computer network. It is built on a client-server model architecture using separate control and data connections between the client and the server.
+
+
+  - SMTP (Simple Mail Transfer Protocol) is an Internet standard communication protocol for electronic mail transmission. Mail servers and other message transfer agents use SMTP to send and receive mail messages.
