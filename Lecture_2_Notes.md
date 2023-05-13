@@ -14,7 +14,7 @@
 - Imagine this figure as home/house 
 
 <div align="center">
-    <img src="./assets/LAN.png" width="600" />
+    <img src="./assets/LAN.png" width="700" />
 </div>
 
 - Resources are interconnected in small scale like house this network is known as **LAN** (Local Area Network)
@@ -24,7 +24,7 @@
 - Let's take an other example as we using network some big scale.
 
 <div align="center">
-    <img src="./assets/MAN.png" width="600" />
+    <img src="./assets/MAN.png" width="700" />
 </div>
 
 Here we see they are connected in big scale across cities this network is called **MAN** (Metro Politan Network)
@@ -34,7 +34,7 @@ Here we see they are connected in big scale across cities this network is called
 - We taking an example as using large scale of network.
 
 <div align="center">
-    <img src="./assets/WAN.png" width="600" />
+    <img src="./assets/WAN.png" width="700" />
 </div>
 
 Here we see that resources or devices are interconnected in such a large scale across countries is called **WAN** (Wide Area Network).
@@ -105,7 +105,7 @@ Here we see that resources or devices are interconnected in such a large scale a
 ##
 
 <div align="center">
-    <img src="./assets/Server%20-%20Client%20Modal.png" width="600" />
+    <img src="./assets/Server%20-%20Client%20Modal.png" width="700" />
 </div>
 
 ### **Types Of Clients:** 

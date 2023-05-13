@@ -57,17 +57,16 @@ They want to send big file in the form of small packets in their destination.
 - TCP defines PORT Number
 - IP will defines it address and added to Hardware.
 
-<h4>⭐ How Packet travels:</h4> 
 
-##
-
-<div align="center">
-    <img src="./assets/Packet%20Travel.png" width="700" />
+<div>
+    <div>
+        <h4>⭐ How Packet travels:</h4> 
+    </div>
+    <div align="center">
+        <img src="./assets/Packet%20Travel.png" width="700" />
+    </div>
 </div>
-
-##
 
 - Client wants to send request through a **router** then your **ISP** get the IP Address and recall itself that I know this IP Address, then it goes to server using multiple routers.
 
 ### Let's learn this thing in more depth:
-
