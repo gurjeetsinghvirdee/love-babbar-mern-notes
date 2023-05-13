@@ -40,7 +40,7 @@ They want to send big file in the form of small packets in their destination.
 
 
 <div align="center">
-    <img src="./assets/Server%20-%20Client%20Modal.png" width="600" />
+    <img src="./assets/Server%20-%20Client%20Modal.png" width="1000" />
 </div>
 
 #
@@ -50,23 +50,40 @@ They want to send big file in the form of small packets in their destination.
 - Let's take an example if a one machine sending **100MB** File to another machine it will be sended in the form of small packets and re-unite in the destination.
 
 <div align="center">
-    <img src="./assets/Protocol%20STack.png" width="700" />
+    <img src="./assets/Protocol%20STack.png" width="1000" />
 </div>
 
 - Protocol is a set of rules to follow
 - TCP defines PORT Number
 - IP will defines it address and added to Hardware.
 
+#
 
-<div>
-    <div>
-        <h4>⭐ How Packet travels:</h4> 
-    </div>
-    <div align="center">
-        <img src="./assets/Packet%20Travel.png" width="700" />
-    </div>
+### 6. How Packet travels?
+
+<div align="center">
+    <img src="./assets/Packet%20Travel.png" width="1000" />
 </div>
+
 
 - Client wants to send request through a **router** then your **ISP** get the IP Address and recall itself that I know this IP Address, then it goes to server using multiple routers.
 
 ### Let's learn this thing in more depth:
+
+<div align="center">
+    <img src="./assets/Packet%20Travel%20in%20deep.png" width="1000" />
+</div>
+
+- Three Layers of ISP:
+  - Local ISP
+  - Regional ISP
+  - NSP (National Service Provider) 
+
+### 7. Router & Routing Table
+
+- Router: A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions **between networks and on the global Internet**
+
+- Routing Table: A routing table is a data table stored in a network host that lists the routes to particular network destinations, and in some cases, metrics (distances) associated with those routes.
+
+### 8. Understand request for www.google.com
+

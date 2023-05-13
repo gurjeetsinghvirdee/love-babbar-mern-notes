@@ -31,7 +31,7 @@
 - Need of Address
 - Client - Server Modal
 - Protocol Stacks and Packets
-- How a PAcket travels over Internet
+- How a Packet travels over Internet
 - Router and Routing Table
 - Understand request for www.google.com
 - Protocols
