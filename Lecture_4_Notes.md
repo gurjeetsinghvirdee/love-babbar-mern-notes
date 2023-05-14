@@ -9,6 +9,10 @@
 
 ### 2. Environment Setup
 
+- Setup 
+  - Download / Install VS Code
+  - Install 2 Extensions 
+
 #### We are using VS Code. You can use Sublime, Atom, JetBrains etc..
 
 - First you have to download **VS Code** from here [Download VS Code](https://code.visualstudio.com/)
