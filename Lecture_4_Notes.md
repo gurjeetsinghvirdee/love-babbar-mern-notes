@@ -60,15 +60,15 @@
     <img src="./assets/preetier.png" width="800" />  
   </div>
 
-  - Live Server [Installation LINK](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - Live Server ➡️ [Installation LINK](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
   <div align="center">
     <img src="./assets/live%20server.png" width="800" />
   </div>
 
-- I've already installed this, so you will see install button instead of Uninstall.
-- You can install these extensions from VS Code or from Link I mentioned here.
+- I've already installed this, so you will see **install button** instead of **Uninstall**.
+- You can install these extensions from **VS Code or the Link I mentioned here**.
 
+#
 
-
-
+### 3. First Program in HTML
