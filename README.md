@@ -58,6 +58,14 @@
 - List & Complexity
 - Anchor tag Variations
 
+[Lecture: 7](./Lecture_7_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/VjCHupej12U)
+
+- What is Table?
+  - Example 1
+  - Example 2
+  - Example 3
+  - Example 4 
+
 
 <div align="center">
     <h4> Please ⭐ this repo if you find it useful ❤️ </h4>
