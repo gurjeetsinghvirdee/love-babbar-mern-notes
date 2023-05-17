@@ -66,6 +66,7 @@
   - Example 3
   - Example 4 
 
+[Lecture: 8](./Lecture_8_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/GmHC1oaK9Ts)
 
 <div align="center">
     <h4> Please ⭐ this repo if you find it useful ❤️ </h4>
