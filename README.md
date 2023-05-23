@@ -68,7 +68,12 @@
 
 [Lecture: 8](./Lecture_8_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/GmHC1oaK9Ts)
 
-
+- Forms
+  - What is Form?
+  - Form tags 
+  - Code
+  - Form Elements
+  - Input Types 
 
 [Lecture: 9](./Lecture_9_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/GmHC1oaK9Ts)
 
@@ -76,7 +81,6 @@
   - Project - 1
   - Project - 2 
   - Project - 3
-
 
 <div align="center">
     <h4> Please ⭐ this repo if you find it useful ❤️ </h4>
