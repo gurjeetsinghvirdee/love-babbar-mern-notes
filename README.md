@@ -68,6 +68,16 @@
 
 [Lecture: 8](./Lecture_8_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/GmHC1oaK9Ts)
 
+
+
+[Lecture: 9](./Lecture_9_Notes.md) ➡️ [Tutorial LINK](https://youtu.be/GmHC1oaK9Ts)
+
+- HTML Forms: From Beginner to Pro
+  - Project - 1
+  - Project - 2 
+  - Project - 3
+
+
 <div align="center">
     <h4> Please ⭐ this repo if you find it useful ❤️ </h4>
 </div>
